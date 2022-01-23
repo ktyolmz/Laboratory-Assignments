@@ -1,0 +1,3 @@
+We are using Student array in StudentAffairs.java which has main method to Print the max course grade for each student and calculate and print the max grade for each course.
+
+Student.java has 3 attributes and 2 methods for store student name, store course name student took, store grades of corresponding courses student took and calculating the maximum grade
