@@ -8,7 +8,7 @@ Contents:
 -Interface
 -Inheritance 
 -Overloading and Overriding 
--Abstrac Classes
+-Abstract Classes
 -Polymorphism
 -Exceptions 
 -Recursion 
